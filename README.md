@@ -1,8 +1,6 @@
 Peer-to-Peer Connection
 =======================
 
-Welcome to a simple HTML presentation on peer-to-peer connections.
-
 What is Peer-to-Peer?
 =====================
 
