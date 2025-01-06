@@ -163,8 +163,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ## Contact
 
 For any queries or feedback, feel free to reach out:
-- **Email**: your_email@example.com
-- **GitHub**: [your_github_profile](https://github.com/your_github_profile)
+- **Email**: rahul.3057.12@gmail.com
+- **GitHub**: [your_github_profile](https://github.com/rahwik)
 
 ---
 
